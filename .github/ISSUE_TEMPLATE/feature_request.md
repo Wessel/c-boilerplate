@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Request a feature for $(PROJECT_NAME)
+about: Request a feature for c-boilerplate
 title: "[ENHANCEMENT] Your idea"
 labels: enhancement
 assignees: Wessel

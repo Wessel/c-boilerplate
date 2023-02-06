@@ -1,14 +1,10 @@
-<img src="$(LOGO_SQUARE).svg" align="left" width="192px" height="192px"/>
+<img src="https://avatars.githubusercontent.com/u/29184334?v=4" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
-> $(PROJECT_NAME)
+> c-boilerplate
 
-[![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE) $(BADGES)
+[![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
 
-$(SMALL_DESC)
+A simple boilerplate for C applications
 
 <br>
-
-## Table of contents
-* $(HEADER)
-  * $(SUB_HEADER)

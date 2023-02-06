@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report an issue with $(PROJECT_NAME)
+about: Report an issue with c-boilerplate
 title: "[BUG] Bug summed up in 1 sentence"
 labels: bug
 assignees: Wessel
@@ -11,13 +11,13 @@ assignees: Wessel
 
 
 **Include a reproducible code sample here, if possible:**
-```js
+```c
 // Place your code here
 ```
 
 **Further details:**
-- $(PROJECT_NAME) version:
-- Node.js version:
+- c-boilerplate version:
+- gcc version:
 - Operating system:
 
 <!--
