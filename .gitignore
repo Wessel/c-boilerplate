@@ -1,4 +1,9 @@
-tmp/**/*
-obj/**/*
-out/**/*
 !.gitkeep
+
+tmp/
+src/tmp
+
+node_modules/
+
+obj/
+out/
