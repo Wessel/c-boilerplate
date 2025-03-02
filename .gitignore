@@ -1,9 +1,6 @@
+# C build files
+**/*.o
+**/out/*
+
+**/tmp/*
 !.gitkeep
-
-tmp/
-src/tmp
-
-node_modules/
-
-obj/
-out/
